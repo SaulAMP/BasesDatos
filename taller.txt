@@ -1,0 +1,11 @@
+base de datos concesionario
+1-se venden distintas marcas(al menos5)
+2-automovil(marca, precio,descuento,potencia,transmision,modelo)
+3-automovil(equipamiento de serie:airbags, pintura,cojineria,luces,aire acondicionado,audio,rin,precio, disponibilidad)
+4-stock de automoviles en sala y en bodega 
+5-vitrinas en la ciudad,(estos comparten datos en el inventario)
+6-centros de servicios(nombre,domicilio,codigo)
+7-vendedores, nombre,codigo,vitrina
+8-ventas, precio,modo de pago,equipamiento incluido,precio equipamiento,fecha-entrega, matricula,stock,vitrina
+
+https://cesdenet-my.sharepoint.com/personal/bamiraga_cesde_net/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbamiraga%5Fcesde%5Fnet%2FDocuments%2FGrupos%5FBasedeDatos%5FGlobant&ga=1
